@@ -14,6 +14,7 @@ https://www.coursera.org/learn/diving-in-python/home/welcome
 #### [2.4.](/Week_1_Introduction_to_Python/2_First_steps/2.4_Choosing_IDE.md)                     Выбор среды разработки (IDE).
 #### 2.5.                                                                                         Начинаем программировать.
 #### [2.6.](/Week_1_Introduction_to_Python/2_First_steps/2.6_Additional_materials.md)             Дополнительные материалы к лекции
+Интерпретатор Python, Как запустить скрипт на Python, Комментирование Python кода, Правильный выбор имен переменных в Python.
 #### [2.7.](/Week_1_Introduction_to_Python/2_First_steps/2.7_Helpful_links.md)                    Полезные ссылки.
 ### 3. Базовые типы и конструкции.
 #### 3.1. Базовые типы: численные типы.
