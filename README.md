@@ -12,6 +12,7 @@ https://www.coursera.org/learn/diving-in-python/home/welcome
 #### [2.2.](/Week_1_Introduction_to_Python/2_First_steps/2.2_Installing_Python_3.md)              Установка Python 3.
 #### [2.3.](/Week_1_Introduction_to_Python/2_First_steps/2.3_Working_in_terminal_command_line.md) Работа в терминале/командной строке.
 #### [2.4.](/Week_1_Introduction_to_Python/2_First_steps/2.4_Choosing_IDE.md)                     Выбор среды разработки (IDE).
+PyCharm.
 #### 2.5.                                                                                         Начинаем программировать.
 #### [2.6.](/Week_1_Introduction_to_Python/2_First_steps/2.6_Additional_materials.md)             Дополнительные материалы к лекции
 Интерпретатор Python, Как запустить скрипт на Python, Комментирование Python кода, Правильный выбор имен переменных в Python.
