@@ -4,17 +4,17 @@ Course
 
 https://www.coursera.org/learn/diving-in-python/home/welcome
 
-## Неделя 1. Введение в Python.
-### 1. Знакомство с курсом.
-#### 1.1. Прежде чем начать.
-### 2. Первые шаги.
-#### 2.1. О языке.
-#### 2.2. Установка Python 3.
-#### 2.3. Работа в терминале/командной строке.
-#### 2.4. Выбор среды разработки (IDE).
-#### 2.5. Начинаем программировать.
-#### 2.6. Дополнительные материалы к лекции
-#### 2.7. Полезные ссылки.
+## [Неделя 1.](/Week_1_Introduction_to_Python)                                                    Введение в Python.
+### [1.](/Week_1_Introduction_to_Python/1_Introduction_to_the_course)                             Знакомство с курсом.
+#### [1.1.](/Week_1_Introduction_to_Python/1_Introduction_to_the_course/1.1_Before_you_start.md)  Прежде чем начать.
+### [2.](/Week_1_Introduction_to_Python/2_First_steps)                                            Первые шаги.
+#### 2.1.                                                                                         О языке.
+#### [2.2.](/Week_1_Introduction_to_Python/2_First_steps/2.2_Installing_Python_3.md)              Установка Python 3.
+#### [2.3.](/Week_1_Introduction_to_Python/2_First_steps/2.3_Working_in_terminal_command_line.md) Работа в терминале/командной строке.
+#### [2.4.](/Week_1_Introduction_to_Python/2_First_steps/2.4_Choosing_IDE.md)                     Выбор среды разработки (IDE).
+#### 2.5.                                                                                         Начинаем программировать.
+#### [2.6.](/Week_1_Introduction_to_Python/2_First_steps/2.6_Additional_materials.md)             Дополнительные материалы к лекции
+#### [2.7.](/Week_1_Introduction_to_Python/2_First_steps/2.7_Helpful_links.md)                    Полезные ссылки.
 ### 3. Базовые типы и конструкции.
 #### 3.1. Базовые типы: численные типы.
 #### 3.2. Базовые типы: логический тип.
