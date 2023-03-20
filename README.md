@@ -22,6 +22,7 @@ PyCharm.
 `int`, `float`, `complex`, модули `decimal` и `fractions`, присваивание, арифметические операции, побитовые операции, округление, конвертация типов, системы счисления.
 #### [3.2.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.2_Boolean_types.ipynb)     Базовые типы: логический тип.
 #### [3.3.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.3_String_types.ipynb)      Базовые типы: строки и байтовые строки.
+r-строки, f-строки, байтовые строки, срезы строк, методы строк, форматирование строк.
 #### [3.4.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.4_None_type.ipynb)         Базовые типы: объект `None`.
 #### 3.5. Конструкции управления потоком.
 #### 3.6. Пример на управление потоком.
