@@ -24,8 +24,8 @@ PyCharm.
 #### [3.3.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.3_String_types.ipynb)      Базовые типы: строки и байтовые строки.
 r-строки, f-строки, байтовые строки, срезы строк, методы строк, форматирование строк.
 #### [3.4.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.4_None_type.ipynb)         Базовые типы: объект `None`.
-#### 3.5. Конструкции управления потоком.
-Конструкция `if/elif/else`; тернарный оператор с `if/else`; цикл `while`; цикл `for/in`; `range`; конструкции `while/else` и `for/in/else`; итерирование по коллекциям.
+#### [3.5.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.5_Flow_control_constructs.ipynb) Конструкции управления потоком.
+Конструкция `if/elif/else`; тернарный оператор с `if/else`; цикл `while`; цикл `for/in`; `range`; конструкции `while/else` и `for/in/else`; `pass`, `break`, `continue`; итерирование по коллекциям.
 #### 3.6. Пример на управление потоком.
 #### 3.7. Слайды.
 #### 3.8. Тест на типы и конструкции.
