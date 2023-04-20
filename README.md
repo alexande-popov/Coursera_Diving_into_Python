@@ -29,8 +29,8 @@ r-строки, f-строки, байтовые строки, срезы стр
 #### [3.6.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.6_Flow_control_example.ipynb) Пример на управление потоком.
 #### 3.7. Слайды.
 #### 3.8. Тест на типы и конструкции.
-### 4. Организация кода и окружение.
-#### 4.1. Модули и пакеты.
+### [4.](/Week_1_Introduction_to_Python/4_Code_organization_and_environment)                        Организация кода и окружение.
+#### [4.1.](/Week_1_Introduction_to_Python/4_Code_organization_and_environment/4.1_Modules_and_packages) Модули и пакеты.
 #### 4.2. Виртуальное окружение (`Virtualenv`). Установка Jupyter Notebook.
 #### 4.3. Виртуальное окружение на Windows.
 #### 4.4. Пример. Пишем программу.
