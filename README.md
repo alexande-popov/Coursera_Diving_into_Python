@@ -25,7 +25,7 @@ PyCharm.
 r-строки, f-строки, байтовые строки, срезы строк, методы строк, форматирование строк.
 #### [3.4.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.4_None_type.ipynb)         Базовые типы: объект `None`.
 #### [3.5.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.5_Flow_control_constructs.ipynb) Конструкции управления потоком.
-Конструкция `if/elif/else`; тернарный оператор с `if/else`; цикл `while`; цикл `for/in`; `range`; конструкции `while/else` и `for/in/else`; `pass`, `break`, `continue`; итерирование по коллекциям.
+Конструкция `if/elif/else`; тернарный оператор с `if/else`; цикл `while`; цикл `for/in`; `range`; конструкции `while/else` и `for/in/else`; `pass`, `break`, `continue`; итерирование по коллекциям, функции `enumerate`, `zip`, `reversed`, `sorted`.
 #### [3.6.](/Week_1_Introduction_to_Python/3_Basic_types_and_constructions/3.6_Flow_control_example.ipynb) Пример на управление потоком.
 #### 3.7. Слайды.
 #### 3.8. Тест на типы и конструкции.
