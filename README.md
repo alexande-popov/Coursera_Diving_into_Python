@@ -53,7 +53,7 @@ r-строки, f-строки, байтовые строки, срезы стр
 ### 1. [Коллекции.](/Week_2_Data_structures_and_functions/1_Collections/Collections.md)
 #### 1.1. [Списки](/Week_2_Data_structures_and_functions/1_Collections/1.1_Lists.ipynb) и кортежи.
 #### 1.2. Списки. Пример программы.
-#### 1.3. Словари.
+#### [1.3.](Week_2_Data_structures_and_functions/1_Collections/1.3._Dictionaries.ipynb) Словари.
 #### 1.4. Словари. Пример программы.
 #### 1.5. Множества.
 #### 1.6. Множества. Пример программы.
